@@ -3,6 +3,9 @@
 ##### (and also because yew is cool)
 
 
+Hash on the web using the same hash functions that the Substrate client/runtime/whatever uses
+
+
 # To Run:
 
 Install Trunk
