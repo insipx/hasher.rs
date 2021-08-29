@@ -6,8 +6,13 @@
 # To Run:
 
 Install Trunk
+
 `cargo install trunk wasm-bindgen-cli`
+
 Add `wasm32-unknown-unknown` target
+
 `rustup target add wasm32-unknown-unknown`
+
 Run with:
+
 `trunk serve`
