@@ -2,9 +2,6 @@ use yew::prelude::*;
 use yew::html::Scope;
 use primitives::twox_128;
 use yew::web_sys::HtmlInputElement as InputElement;
-use wasm_bindgen::JsCast;
-
-mod styles;
 
 enum Msg {
     Add(String),
