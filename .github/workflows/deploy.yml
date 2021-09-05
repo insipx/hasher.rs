@@ -38,7 +38,7 @@ jobs:
           key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
 
       - name: Build
-        run: trunk build app/index.html --release --public-url /derivative-machine/
+        run: trunk build index.html --release
 
       - name: Create .nojekyll file
         run: touch dist/.nojekyll
