@@ -3,6 +3,8 @@
 ##### (and also because yew is cool)
 
 
+live at [http://hasher.rs](http://hasher.rs)
+
 Hash on the web using the same hash functions that the Substrate client/runtime/whatever uses
 
 
